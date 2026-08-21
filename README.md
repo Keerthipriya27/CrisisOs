@@ -1,4 +1,3 @@
-````md
 # CrisisOS 
 
 ### AI-Powered Emergency Decision Support System
