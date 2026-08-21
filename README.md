@@ -799,5 +799,3 @@ The final objective is simple:
 
 This project is developed as a prototype for educational, research, and hackathon purposes.
 
-```
-````
